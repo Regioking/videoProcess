@@ -1,0 +1,6 @@
+21-10-29 03:03:49.970 - INFO: Data: vid4 - ./datasets/vid4/LR/*
+21-10-29 03:03:49.970 - INFO: Padding mode: replicate
+21-10-29 03:03:49.970 - INFO: Model path: ./checkpoints/tmnet_single_frame.pth
+21-10-29 03:03:49.970 - INFO: Model parameters: 12.263523 M
+21-10-29 03:03:49.970 - INFO: Save images: True
+21-10-29 03:03:49.970 - INFO: Flip Test: False

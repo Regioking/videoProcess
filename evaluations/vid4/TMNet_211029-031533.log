@@ -1,0 +1,193 @@
+21-10-29 03:15:33.475 - INFO: Data: vid4 - ./datasets/vid4/LR/*
+21-10-29 03:15:33.475 - INFO: Padding mode: replicate
+21-10-29 03:15:33.475 - INFO: Model path: ./checkpoints/tmnet_single_frame.pth
+21-10-29 03:15:33.475 - INFO: Model parameters: 12.263523 M
+21-10-29 03:15:33.476 - INFO: Save images: True
+21-10-29 03:15:33.476 - INFO: Flip Test: False
+21-10-29 03:15:39.814 - INFO:   1 -                         1.png 	PSNR: 21.818052 dB  PSNR-Y: 23.522587 dB 	SSIM: 0.761050 dB  SSIM-Y: 0.791663 dB
+21-10-29 03:15:40.548 - INFO:   2 -                         2.png 	PSNR: 21.749741 dB  PSNR-Y: 23.494584 dB 	SSIM: 0.759342 dB  SSIM-Y: 0.791973 dB
+21-10-29 03:15:41.280 - INFO:   3 -                         3.png 	PSNR: 21.780963 dB  PSNR-Y: 23.494842 dB 	SSIM: 0.763495 dB  SSIM-Y: 0.793722 dB
+21-10-29 03:15:42.003 - INFO:   4 -                         4.png 	PSNR: 21.784112 dB  PSNR-Y: 23.536783 dB 	SSIM: 0.761378 dB  SSIM-Y: 0.793788 dB
+21-10-29 03:15:42.734 - INFO:   5 -                         5.png 	PSNR: 21.997358 dB  PSNR-Y: 23.741888 dB 	SSIM: 0.768592 dB  SSIM-Y: 0.799020 dB
+21-10-29 03:15:43.463 - INFO:   6 -                         6.png 	PSNR: 21.936737 dB  PSNR-Y: 23.709810 dB 	SSIM: 0.765564 dB  SSIM-Y: 0.798112 dB
+21-10-29 03:15:44.200 - INFO:   7 -                         7.png 	PSNR: 21.994277 dB  PSNR-Y: 23.736999 dB 	SSIM: 0.768763 dB  SSIM-Y: 0.799437 dB
+21-10-29 03:15:45.392 - INFO:   8 -                         8.png 	PSNR: 21.859959 dB  PSNR-Y: 23.623849 dB 	SSIM: 0.761728 dB  SSIM-Y: 0.794644 dB
+21-10-29 03:15:46.130 - INFO:   9 -                         9.png 	PSNR: 21.954173 dB  PSNR-Y: 23.691067 dB 	SSIM: 0.765917 dB  SSIM-Y: 0.796627 dB
+21-10-29 03:15:46.865 - INFO:  10 -                        10.png 	PSNR: 21.913440 dB  PSNR-Y: 23.678436 dB 	SSIM: 0.762861 dB  SSIM-Y: 0.795554 dB
+21-10-29 03:15:47.601 - INFO:  11 -                        11.png 	PSNR: 22.034360 dB  PSNR-Y: 23.782882 dB 	SSIM: 0.768069 dB  SSIM-Y: 0.799031 dB
+21-10-29 03:15:48.337 - INFO:  12 -                        12.png 	PSNR: 21.930172 dB  PSNR-Y: 23.713907 dB 	SSIM: 0.763625 dB  SSIM-Y: 0.797142 dB
+21-10-29 03:15:49.068 - INFO:  13 -                        13.png 	PSNR: 22.084726 dB  PSNR-Y: 23.836569 dB 	SSIM: 0.770154 dB  SSIM-Y: 0.801196 dB
+21-10-29 03:15:50.231 - INFO:  14 -                        14.png 	PSNR: 21.989693 dB  PSNR-Y: 23.783538 dB 	SSIM: 0.762707 dB  SSIM-Y: 0.796467 dB
+21-10-29 03:15:50.960 - INFO:  15 -                        15.png 	PSNR: 22.095133 dB  PSNR-Y: 23.843979 dB 	SSIM: 0.768173 dB  SSIM-Y: 0.799260 dB
+21-10-29 03:15:51.698 - INFO:  16 -                        16.png 	PSNR: 21.934817 dB  PSNR-Y: 23.719076 dB 	SSIM: 0.761180 dB  SSIM-Y: 0.795104 dB
+21-10-29 03:15:52.435 - INFO:  17 -                        17.png 	PSNR: 22.188020 dB  PSNR-Y: 23.950504 dB 	SSIM: 0.770666 dB  SSIM-Y: 0.802046 dB
+21-10-29 03:15:53.167 - INFO:  18 -                        18.png 	PSNR: 21.961979 dB  PSNR-Y: 23.755813 dB 	SSIM: 0.763669 dB  SSIM-Y: 0.797826 dB
+21-10-29 03:15:53.903 - INFO:  19 -                        19.png 	PSNR: 22.099333 dB  PSNR-Y: 23.857645 dB 	SSIM: 0.769675 dB  SSIM-Y: 0.801641 dB
+21-10-29 03:15:55.061 - INFO:  20 -                        20.png 	PSNR: 21.925140 dB  PSNR-Y: 23.703770 dB 	SSIM: 0.760505 dB  SSIM-Y: 0.794908 dB
+21-10-29 03:15:55.800 - INFO:  21 -                        21.png 	PSNR: 22.078256 dB  PSNR-Y: 23.829363 dB 	SSIM: 0.766971 dB  SSIM-Y: 0.799207 dB
+21-10-29 03:15:56.536 - INFO:  22 -                        22.png 	PSNR: 21.872086 dB  PSNR-Y: 23.642169 dB 	SSIM: 0.759187 dB  SSIM-Y: 0.794089 dB
+21-10-29 03:15:57.273 - INFO:  23 -                        23.png 	PSNR: 21.859616 dB  PSNR-Y: 23.585218 dB 	SSIM: 0.760488 dB  SSIM-Y: 0.793608 dB
+21-10-29 03:15:58.009 - INFO:  24 -                        24.png 	PSNR: 21.809506 dB  PSNR-Y: 23.549308 dB 	SSIM: 0.757032 dB  SSIM-Y: 0.792101 dB
+21-10-29 03:15:58.746 - INFO:  25 -                        25.png 	PSNR: 22.017525 dB  PSNR-Y: 23.763275 dB 	SSIM: 0.765314 dB  SSIM-Y: 0.798894 dB
+21-10-29 03:15:59.909 - INFO:  26 -                        26.png 	PSNR: 21.831950 dB  PSNR-Y: 23.587374 dB 	SSIM: 0.757714 dB  SSIM-Y: 0.793131 dB
+21-10-29 03:16:00.644 - INFO:  27 -                        27.png 	PSNR: 21.846780 dB  PSNR-Y: 23.586545 dB 	SSIM: 0.760071 dB  SSIM-Y: 0.793844 dB
+21-10-29 03:16:01.380 - INFO:  28 -                        28.png 	PSNR: 21.815231 dB  PSNR-Y: 23.560062 dB 	SSIM: 0.757392 dB  SSIM-Y: 0.792784 dB
+21-10-29 03:16:02.119 - INFO:  29 -                        29.png 	PSNR: 21.913267 dB  PSNR-Y: 23.655806 dB 	SSIM: 0.765161 dB  SSIM-Y: 0.798631 dB
+21-10-29 03:16:02.860 - INFO:  30 -                        30.png 	PSNR: 21.798103 dB  PSNR-Y: 23.566198 dB 	SSIM: 0.759579 dB  SSIM-Y: 0.795771 dB
+21-10-29 03:16:03.602 - INFO:  31 -                        31.png 	PSNR: 21.942466 dB  PSNR-Y: 23.693935 dB 	SSIM: 0.767572 dB  SSIM-Y: 0.801500 dB
+21-10-29 03:16:04.766 - INFO:  32 -                        32.png 	PSNR: 21.796236 dB  PSNR-Y: 23.563023 dB 	SSIM: 0.758874 dB  SSIM-Y: 0.794648 dB
+21-10-29 03:16:05.504 - INFO:  33 -                        33.png 	PSNR: 21.841488 dB  PSNR-Y: 23.580382 dB 	SSIM: 0.762259 dB  SSIM-Y: 0.796059 dB
+21-10-29 03:16:06.250 - INFO:  34 -                        34.png 	PSNR: 21.786663 dB  PSNR-Y: 23.538772 dB 	SSIM: 0.757342 dB  SSIM-Y: 0.793343 dB
+21-10-29 03:16:07.002 - INFO:  35 -                        35.png 	PSNR: 21.817098 dB  PSNR-Y: 23.556965 dB 	SSIM: 0.760574 dB  SSIM-Y: 0.795059 dB
+21-10-29 03:16:07.749 - INFO:  36 -                        36.png 	PSNR: 21.729718 dB  PSNR-Y: 23.484333 dB 	SSIM: 0.754917 dB  SSIM-Y: 0.792244 dB
+21-10-29 03:16:08.500 - INFO:  37 -                        37.png 	PSNR: 21.905238 dB  PSNR-Y: 23.656312 dB 	SSIM: 0.762122 dB  SSIM-Y: 0.797666 dB
+21-10-29 03:16:09.659 - INFO:  38 -                        38.png 	PSNR: 21.760723 dB  PSNR-Y: 23.514062 dB 	SSIM: 0.751809 dB  SSIM-Y: 0.789166 dB
+21-10-29 03:16:10.396 - INFO:  39 -                        39.png 	PSNR: 21.778353 dB  PSNR-Y: 23.507891 dB 	SSIM: 0.755623 dB  SSIM-Y: 0.790763 dB
+21-10-29 03:16:11.131 - INFO:  40 -                        40.png 	PSNR: 21.641558 dB  PSNR-Y: 23.385441 dB 	SSIM: 0.750150 dB  SSIM-Y: 0.787953 dB
+21-10-29 03:16:11.865 - INFO:  41 -                        41.png 	PSNR: 21.749631 dB  PSNR-Y: 23.478288 dB 	SSIM: 0.755891 dB  SSIM-Y: 0.791251 dB
+21-10-29 03:16:11.865 - INFO: Folder calendar - Average PSNR: 21.893260 dB PSNR-Y: 23.645445 dB for 41 frames; - Average SSIM: 0.762028 dB SSIM-Y: 0.795631 dB for 41 frames; 
+21-10-29 03:16:13.659 - INFO:   1 -                         1.png 	PSNR: 25.616369 dB  PSNR-Y: 27.145781 dB 	SSIM: 0.761745 dB  SSIM-Y: 0.782119 dB
+21-10-29 03:16:14.385 - INFO:   2 -                         2.png 	PSNR: 25.760238 dB  PSNR-Y: 27.306648 dB 	SSIM: 0.755050 dB  SSIM-Y: 0.777356 dB
+21-10-29 03:16:15.121 - INFO:   3 -                         3.png 	PSNR: 26.211054 dB  PSNR-Y: 27.723475 dB 	SSIM: 0.766104 dB  SSIM-Y: 0.786430 dB
+21-10-29 03:16:15.855 - INFO:   4 -                         4.png 	PSNR: 26.428043 dB  PSNR-Y: 27.971259 dB 	SSIM: 0.769966 dB  SSIM-Y: 0.791976 dB
+21-10-29 03:16:16.581 - INFO:   5 -                         5.png 	PSNR: 26.320040 dB  PSNR-Y: 27.846583 dB 	SSIM: 0.777267 dB  SSIM-Y: 0.797107 dB
+21-10-29 03:16:17.313 - INFO:   6 -                         6.png 	PSNR: 25.988302 dB  PSNR-Y: 27.543249 dB 	SSIM: 0.762923 dB  SSIM-Y: 0.785242 dB
+21-10-29 03:16:18.049 - INFO:   7 -                         7.png 	PSNR: 26.499999 dB  PSNR-Y: 28.016523 dB 	SSIM: 0.775944 dB  SSIM-Y: 0.796046 dB
+21-10-29 03:16:19.154 - INFO:   8 -                         8.png 	PSNR: 26.540844 dB  PSNR-Y: 28.090592 dB 	SSIM: 0.773083 dB  SSIM-Y: 0.795121 dB
+21-10-29 03:16:19.864 - INFO:   9 -                         9.png 	PSNR: 26.349627 dB  PSNR-Y: 27.867962 dB 	SSIM: 0.778566 dB  SSIM-Y: 0.798403 dB
+21-10-29 03:16:20.570 - INFO:  10 -                        10.png 	PSNR: 25.835496 dB  PSNR-Y: 27.385647 dB 	SSIM: 0.763782 dB  SSIM-Y: 0.785811 dB
+21-10-29 03:16:21.280 - INFO:  11 -                        11.png 	PSNR: 25.596754 dB  PSNR-Y: 27.113601 dB 	SSIM: 0.759004 dB  SSIM-Y: 0.779462 dB
+21-10-29 03:16:21.985 - INFO:  12 -                        12.png 	PSNR: 25.752534 dB  PSNR-Y: 27.296464 dB 	SSIM: 0.754160 dB  SSIM-Y: 0.776630 dB
+21-10-29 03:16:22.689 - INFO:  13 -                        13.png 	PSNR: 25.717294 dB  PSNR-Y: 27.232838 dB 	SSIM: 0.758795 dB  SSIM-Y: 0.779292 dB
+21-10-29 03:16:23.802 - INFO:  14 -                        14.png 	PSNR: 25.346884 dB  PSNR-Y: 26.883911 dB 	SSIM: 0.747898 dB  SSIM-Y: 0.770171 dB
+21-10-29 03:16:24.532 - INFO:  15 -                        15.png 	PSNR: 25.261946 dB  PSNR-Y: 26.777138 dB 	SSIM: 0.747036 dB  SSIM-Y: 0.767898 dB
+21-10-29 03:16:25.262 - INFO:  16 -                        16.png 	PSNR: 25.099587 dB  PSNR-Y: 26.632203 dB 	SSIM: 0.735094 dB  SSIM-Y: 0.757988 dB
+21-10-29 03:16:25.991 - INFO:  17 -                        17.png 	PSNR: 25.196453 dB  PSNR-Y: 26.713269 dB 	SSIM: 0.742338 dB  SSIM-Y: 0.763357 dB
+21-10-29 03:16:26.727 - INFO:  18 -                        18.png 	PSNR: 24.942036 dB  PSNR-Y: 26.484377 dB 	SSIM: 0.730661 dB  SSIM-Y: 0.753721 dB
+21-10-29 03:16:27.460 - INFO:  19 -                        19.png 	PSNR: 25.338562 dB  PSNR-Y: 26.860277 dB 	SSIM: 0.752271 dB  SSIM-Y: 0.772859 dB
+21-10-29 03:16:28.567 - INFO:  20 -                        20.png 	PSNR: 25.450732 dB  PSNR-Y: 26.995964 dB 	SSIM: 0.750350 dB  SSIM-Y: 0.772535 dB
+21-10-29 03:16:29.277 - INFO:  21 -                        21.png 	PSNR: 25.519281 dB  PSNR-Y: 27.040088 dB 	SSIM: 0.753525 dB  SSIM-Y: 0.774021 dB
+21-10-29 03:16:29.988 - INFO:  22 -                        22.png 	PSNR: 25.458481 dB  PSNR-Y: 27.006404 dB 	SSIM: 0.751968 dB  SSIM-Y: 0.774006 dB
+21-10-29 03:16:30.695 - INFO:  23 -                        23.png 	PSNR: 25.696069 dB  PSNR-Y: 27.212951 dB 	SSIM: 0.760455 dB  SSIM-Y: 0.780293 dB
+21-10-29 03:16:31.402 - INFO:  24 -                        24.png 	PSNR: 26.229516 dB  PSNR-Y: 27.783346 dB 	SSIM: 0.770669 dB  SSIM-Y: 0.792350 dB
+21-10-29 03:16:32.115 - INFO:  25 -                        25.png 	PSNR: 26.634312 dB  PSNR-Y: 28.164481 dB 	SSIM: 0.788847 dB  SSIM-Y: 0.808066 dB
+21-10-29 03:16:33.247 - INFO:  26 -                        26.png 	PSNR: 26.441612 dB  PSNR-Y: 28.012352 dB 	SSIM: 0.778948 dB  SSIM-Y: 0.800900 dB
+21-10-29 03:16:33.976 - INFO:  27 -                        27.png 	PSNR: 26.317980 dB  PSNR-Y: 27.874091 dB 	SSIM: 0.784790 dB  SSIM-Y: 0.804737 dB
+21-10-29 03:16:34.709 - INFO:  28 -                        28.png 	PSNR: 26.662868 dB  PSNR-Y: 28.264013 dB 	SSIM: 0.790112 dB  SSIM-Y: 0.812224 dB
+21-10-29 03:16:35.444 - INFO:  29 -                        29.png 	PSNR: 27.032568 dB  PSNR-Y: 28.600697 dB 	SSIM: 0.805506 dB  SSIM-Y: 0.825006 dB
+21-10-29 03:16:36.173 - INFO:  30 -                        30.png 	PSNR: 26.407957 dB  PSNR-Y: 28.015177 dB 	SSIM: 0.784719 dB  SSIM-Y: 0.807746 dB
+21-10-29 03:16:36.903 - INFO:  31 -                        31.png 	PSNR: 26.291133 dB  PSNR-Y: 27.864074 dB 	SSIM: 0.790859 dB  SSIM-Y: 0.810987 dB
+21-10-29 03:16:37.999 - INFO:  32 -                        32.png 	PSNR: 25.958721 dB  PSNR-Y: 27.523933 dB 	SSIM: 0.780165 dB  SSIM-Y: 0.800280 dB
+21-10-29 03:16:38.708 - INFO:  33 -                        33.png 	PSNR: 25.764540 dB  PSNR-Y: 27.347144 dB 	SSIM: 0.767747 dB  SSIM-Y: 0.790345 dB
+21-10-29 03:16:39.416 - INFO:  34 -                        34.png 	PSNR: 25.800767 dB  PSNR-Y: 27.348461 dB 	SSIM: 0.772912 dB  SSIM-Y: 0.793258 dB
+21-10-29 03:16:39.416 - INFO: Folder city - Average PSNR: 25.925547 dB PSNR-Y: 27.468970 dB for 34 frames; - Average SSIM: 0.765978 dB SSIM-Y: 0.787169 dB for 34 frames; 
+21-10-29 03:16:41.089 - INFO:   1 -                         1.png 	PSNR: 25.400517 dB  PSNR-Y: 26.836231 dB 	SSIM: 0.767614 dB  SSIM-Y: 0.782306 dB
+21-10-29 03:16:41.657 - INFO:   2 -                         2.png 	PSNR: 25.018508 dB  PSNR-Y: 26.464606 dB 	SSIM: 0.758368 dB  SSIM-Y: 0.773914 dB
+21-10-29 03:16:42.227 - INFO:   3 -                         3.png 	PSNR: 25.146186 dB  PSNR-Y: 26.597143 dB 	SSIM: 0.760216 dB  SSIM-Y: 0.775760 dB
+21-10-29 03:16:42.794 - INFO:   4 -                         4.png 	PSNR: 24.975858 dB  PSNR-Y: 26.411966 dB 	SSIM: 0.759496 dB  SSIM-Y: 0.774555 dB
+21-10-29 03:16:43.363 - INFO:   5 -                         5.png 	PSNR: 25.256850 dB  PSNR-Y: 26.673952 dB 	SSIM: 0.765530 dB  SSIM-Y: 0.779620 dB
+21-10-29 03:16:43.930 - INFO:   6 -                         6.png 	PSNR: 24.624078 dB  PSNR-Y: 26.056470 dB 	SSIM: 0.751437 dB  SSIM-Y: 0.766972 dB
+21-10-29 03:16:44.498 - INFO:   7 -                         7.png 	PSNR: 25.035156 dB  PSNR-Y: 26.449610 dB 	SSIM: 0.759487 dB  SSIM-Y: 0.773747 dB
+21-10-29 03:16:45.413 - INFO:   8 -                         8.png 	PSNR: 24.118233 dB  PSNR-Y: 25.528475 dB 	SSIM: 0.729045 dB  SSIM-Y: 0.744931 dB
+21-10-29 03:16:45.985 - INFO:   9 -                         9.png 	PSNR: 24.474273 dB  PSNR-Y: 25.890707 dB 	SSIM: 0.730098 dB  SSIM-Y: 0.745742 dB
+21-10-29 03:16:46.536 - INFO:  10 -                        10.png 	PSNR: 24.418140 dB  PSNR-Y: 25.847198 dB 	SSIM: 0.736933 dB  SSIM-Y: 0.753579 dB
+21-10-29 03:16:47.084 - INFO:  11 -                        11.png 	PSNR: 24.741340 dB  PSNR-Y: 26.169105 dB 	SSIM: 0.741497 dB  SSIM-Y: 0.757862 dB
+21-10-29 03:16:47.638 - INFO:  12 -                        12.png 	PSNR: 24.180363 dB  PSNR-Y: 25.682416 dB 	SSIM: 0.719394 dB  SSIM-Y: 0.739790 dB
+21-10-29 03:16:48.191 - INFO:  13 -                        13.png 	PSNR: 24.582586 dB  PSNR-Y: 25.995943 dB 	SSIM: 0.732022 dB  SSIM-Y: 0.747908 dB
+21-10-29 03:16:49.076 - INFO:  14 -                        14.png 	PSNR: 24.213419 dB  PSNR-Y: 25.638376 dB 	SSIM: 0.718549 dB  SSIM-Y: 0.736038 dB
+21-10-29 03:16:49.579 - INFO:  15 -                        15.png 	PSNR: 24.368768 dB  PSNR-Y: 25.790662 dB 	SSIM: 0.721407 dB  SSIM-Y: 0.737969 dB
+21-10-29 03:16:50.083 - INFO:  16 -                        16.png 	PSNR: 24.112426 dB  PSNR-Y: 25.528966 dB 	SSIM: 0.712634 dB  SSIM-Y: 0.729369 dB
+21-10-29 03:16:50.590 - INFO:  17 -                        17.png 	PSNR: 24.466577 dB  PSNR-Y: 25.863727 dB 	SSIM: 0.723512 dB  SSIM-Y: 0.738967 dB
+21-10-29 03:16:51.094 - INFO:  18 -                        18.png 	PSNR: 24.091494 dB  PSNR-Y: 25.524246 dB 	SSIM: 0.707580 dB  SSIM-Y: 0.725562 dB
+21-10-29 03:16:51.598 - INFO:  19 -                        19.png 	PSNR: 24.530790 dB  PSNR-Y: 25.924108 dB 	SSIM: 0.721190 dB  SSIM-Y: 0.736817 dB
+21-10-29 03:16:52.526 - INFO:  20 -                        20.png 	PSNR: 23.776530 dB  PSNR-Y: 25.190610 dB 	SSIM: 0.678557 dB  SSIM-Y: 0.696979 dB
+21-10-29 03:16:53.088 - INFO:  21 -                        21.png 	PSNR: 24.025672 dB  PSNR-Y: 25.423579 dB 	SSIM: 0.688101 dB  SSIM-Y: 0.705146 dB
+21-10-29 03:16:53.651 - INFO:  22 -                        22.png 	PSNR: 23.803540 dB  PSNR-Y: 25.228025 dB 	SSIM: 0.677122 dB  SSIM-Y: 0.695595 dB
+21-10-29 03:16:54.214 - INFO:  23 -                        23.png 	PSNR: 24.102179 dB  PSNR-Y: 25.490058 dB 	SSIM: 0.689663 dB  SSIM-Y: 0.706357 dB
+21-10-29 03:16:54.789 - INFO:  24 -                        24.png 	PSNR: 23.705437 dB  PSNR-Y: 25.125360 dB 	SSIM: 0.673502 dB  SSIM-Y: 0.692151 dB
+21-10-29 03:16:55.364 - INFO:  25 -                        25.png 	PSNR: 24.117118 dB  PSNR-Y: 25.511802 dB 	SSIM: 0.691723 dB  SSIM-Y: 0.709148 dB
+21-10-29 03:16:56.281 - INFO:  26 -                        26.png 	PSNR: 23.832869 dB  PSNR-Y: 25.284332 dB 	SSIM: 0.682863 dB  SSIM-Y: 0.702483 dB
+21-10-29 03:16:56.834 - INFO:  27 -                        27.png 	PSNR: 23.886326 dB  PSNR-Y: 25.360985 dB 	SSIM: 0.684293 dB  SSIM-Y: 0.704664 dB
+21-10-29 03:16:57.389 - INFO:  28 -                        28.png 	PSNR: 23.819141 dB  PSNR-Y: 25.268752 dB 	SSIM: 0.679405 dB  SSIM-Y: 0.699513 dB
+21-10-29 03:16:57.942 - INFO:  29 -                        29.png 	PSNR: 24.032096 dB  PSNR-Y: 25.446408 dB 	SSIM: 0.691662 dB  SSIM-Y: 0.709300 dB
+21-10-29 03:16:58.503 - INFO:  30 -                        30.png 	PSNR: 23.711698 dB  PSNR-Y: 25.161889 dB 	SSIM: 0.676502 dB  SSIM-Y: 0.696186 dB
+21-10-29 03:16:59.058 - INFO:  31 -                        31.png 	PSNR: 24.129968 dB  PSNR-Y: 25.537589 dB 	SSIM: 0.696180 dB  SSIM-Y: 0.713165 dB
+21-10-29 03:16:59.947 - INFO:  32 -                        32.png 	PSNR: 23.955184 dB  PSNR-Y: 25.360099 dB 	SSIM: 0.693036 dB  SSIM-Y: 0.710029 dB
+21-10-29 03:17:00.457 - INFO:  33 -                        33.png 	PSNR: 24.121528 dB  PSNR-Y: 25.525180 dB 	SSIM: 0.700075 dB  SSIM-Y: 0.716538 dB
+21-10-29 03:17:00.971 - INFO:  34 -                        34.png 	PSNR: 24.078935 dB  PSNR-Y: 25.483992 dB 	SSIM: 0.695967 dB  SSIM-Y: 0.713048 dB
+21-10-29 03:17:01.483 - INFO:  35 -                        35.png 	PSNR: 24.197324 dB  PSNR-Y: 25.577103 dB 	SSIM: 0.702627 dB  SSIM-Y: 0.717926 dB
+21-10-29 03:17:01.995 - INFO:  36 -                        36.png 	PSNR: 23.936483 dB  PSNR-Y: 25.353861 dB 	SSIM: 0.690842 dB  SSIM-Y: 0.708290 dB
+21-10-29 03:17:02.507 - INFO:  37 -                        37.png 	PSNR: 24.276134 dB  PSNR-Y: 25.656447 dB 	SSIM: 0.706555 dB  SSIM-Y: 0.721979 dB
+21-10-29 03:17:03.442 - INFO:  38 -                        38.png 	PSNR: 24.136261 dB  PSNR-Y: 25.538844 dB 	SSIM: 0.704071 dB  SSIM-Y: 0.720547 dB
+21-10-29 03:17:04.007 - INFO:  39 -                        39.png 	PSNR: 24.275274 dB  PSNR-Y: 25.671858 dB 	SSIM: 0.710116 dB  SSIM-Y: 0.725547 dB
+21-10-29 03:17:04.567 - INFO:  40 -                        40.png 	PSNR: 24.429032 dB  PSNR-Y: 25.844485 dB 	SSIM: 0.717258 dB  SSIM-Y: 0.734669 dB
+21-10-29 03:17:05.131 - INFO:  41 -                        41.png 	PSNR: 24.347974 dB  PSNR-Y: 25.736724 dB 	SSIM: 0.715787 dB  SSIM-Y: 0.731370 dB
+21-10-29 03:17:05.691 - INFO:  42 -                        42.png 	PSNR: 24.073508 dB  PSNR-Y: 25.567390 dB 	SSIM: 0.705691 dB  SSIM-Y: 0.726631 dB
+21-10-29 03:17:06.256 - INFO:  43 -                        43.png 	PSNR: 24.203402 dB  PSNR-Y: 25.611485 dB 	SSIM: 0.711272 dB  SSIM-Y: 0.727955 dB
+21-10-29 03:17:07.170 - INFO:  44 -                        44.png 	PSNR: 23.925740 dB  PSNR-Y: 25.338727 dB 	SSIM: 0.704168 dB  SSIM-Y: 0.720990 dB
+21-10-29 03:17:07.720 - INFO:  45 -                        45.png 	PSNR: 24.112623 dB  PSNR-Y: 25.530068 dB 	SSIM: 0.710792 dB  SSIM-Y: 0.727389 dB
+21-10-29 03:17:08.271 - INFO:  46 -                        46.png 	PSNR: 24.017623 dB  PSNR-Y: 25.424159 dB 	SSIM: 0.707916 dB  SSIM-Y: 0.724405 dB
+21-10-29 03:17:08.821 - INFO:  47 -                        47.png 	PSNR: 24.092322 dB  PSNR-Y: 25.472889 dB 	SSIM: 0.709203 dB  SSIM-Y: 0.724081 dB
+21-10-29 03:17:09.370 - INFO:  48 -                        48.png 	PSNR: 23.900807 dB  PSNR-Y: 25.320941 dB 	SSIM: 0.702570 dB  SSIM-Y: 0.719621 dB
+21-10-29 03:17:09.921 - INFO:  49 -                        49.png 	PSNR: 24.237504 dB  PSNR-Y: 25.620913 dB 	SSIM: 0.711636 dB  SSIM-Y: 0.726611 dB
+21-10-29 03:17:10.278 - INFO: Folder foliage - Average PSNR: 24.265628 dB PSNR-Y: 25.684458 dB for 49 frames; - Average SSIM: 0.712758 dB SSIM-Y: 0.729586 dB for 49 frames; 
+21-10-29 03:17:11.869 - INFO:   1 -                         1.png 	PSNR: 28.773337 dB  PSNR-Y: 30.167799 dB 	SSIM: 0.885023 dB  SSIM-Y: 0.898081 dB
+21-10-29 03:17:12.379 - INFO:   2 -                         2.png 	PSNR: 28.189863 dB  PSNR-Y: 29.612616 dB 	SSIM: 0.880579 dB  SSIM-Y: 0.894391 dB
+21-10-29 03:17:12.887 - INFO:   3 -                         3.png 	PSNR: 29.188719 dB  PSNR-Y: 30.584146 dB 	SSIM: 0.893200 dB  SSIM-Y: 0.905356 dB
+21-10-29 03:17:13.393 - INFO:   4 -                         4.png 	PSNR: 28.351414 dB  PSNR-Y: 29.779323 dB 	SSIM: 0.880749 dB  SSIM-Y: 0.894985 dB
+21-10-29 03:17:13.899 - INFO:   5 -                         5.png 	PSNR: 28.985716 dB  PSNR-Y: 30.376657 dB 	SSIM: 0.890293 dB  SSIM-Y: 0.902551 dB
+21-10-29 03:17:14.404 - INFO:   6 -                         6.png 	PSNR: 27.938970 dB  PSNR-Y: 29.358415 dB 	SSIM: 0.876939 dB  SSIM-Y: 0.890939 dB
+21-10-29 03:17:14.912 - INFO:   7 -                         7.png 	PSNR: 28.704727 dB  PSNR-Y: 30.109797 dB 	SSIM: 0.885730 dB  SSIM-Y: 0.898873 dB
+21-10-29 03:17:15.771 - INFO:   8 -                         8.png 	PSNR: 27.695251 dB  PSNR-Y: 29.116909 dB 	SSIM: 0.869128 dB  SSIM-Y: 0.884216 dB
+21-10-29 03:17:16.277 - INFO:   9 -                         9.png 	PSNR: 28.858778 dB  PSNR-Y: 30.249601 dB 	SSIM: 0.885169 dB  SSIM-Y: 0.898386 dB
+21-10-29 03:17:16.785 - INFO:  10 -                        10.png 	PSNR: 26.432127 dB  PSNR-Y: 27.888283 dB 	SSIM: 0.861264 dB  SSIM-Y: 0.877406 dB
+21-10-29 03:17:17.295 - INFO:  11 -                        11.png 	PSNR: 28.917469 dB  PSNR-Y: 30.315695 dB 	SSIM: 0.889428 dB  SSIM-Y: 0.901920 dB
+21-10-29 03:17:17.801 - INFO:  12 -                        12.png 	PSNR: 26.334335 dB  PSNR-Y: 27.783314 dB 	SSIM: 0.865652 dB  SSIM-Y: 0.880618 dB
+21-10-29 03:17:18.309 - INFO:  13 -                        13.png 	PSNR: 28.462580 dB  PSNR-Y: 29.889550 dB 	SSIM: 0.879927 dB  SSIM-Y: 0.893379 dB
+21-10-29 03:17:19.191 - INFO:  14 -                        14.png 	PSNR: 26.917458 dB  PSNR-Y: 28.338872 dB 	SSIM: 0.867222 dB  SSIM-Y: 0.881751 dB
+21-10-29 03:17:19.695 - INFO:  15 -                        15.png 	PSNR: 28.887718 dB  PSNR-Y: 30.281835 dB 	SSIM: 0.887359 dB  SSIM-Y: 0.900006 dB
+21-10-29 03:17:20.199 - INFO:  16 -                        16.png 	PSNR: 25.827929 dB  PSNR-Y: 27.287726 dB 	SSIM: 0.863081 dB  SSIM-Y: 0.878542 dB
+21-10-29 03:17:20.704 - INFO:  17 -                        17.png 	PSNR: 28.897694 dB  PSNR-Y: 30.279883 dB 	SSIM: 0.888289 dB  SSIM-Y: 0.900698 dB
+21-10-29 03:17:21.209 - INFO:  18 -                        18.png 	PSNR: 25.043561 dB  PSNR-Y: 26.501822 dB 	SSIM: 0.861529 dB  SSIM-Y: 0.876633 dB
+21-10-29 03:17:21.714 - INFO:  19 -                        19.png 	PSNR: 28.527570 dB  PSNR-Y: 29.916230 dB 	SSIM: 0.882238 dB  SSIM-Y: 0.895463 dB
+21-10-29 03:17:22.579 - INFO:  20 -                        20.png 	PSNR: 26.386132 dB  PSNR-Y: 27.845810 dB 	SSIM: 0.860781 dB  SSIM-Y: 0.876237 dB
+21-10-29 03:17:23.083 - INFO:  21 -                        21.png 	PSNR: 28.890458 dB  PSNR-Y: 30.270822 dB 	SSIM: 0.887740 dB  SSIM-Y: 0.900303 dB
+21-10-29 03:17:23.591 - INFO:  22 -                        22.png 	PSNR: 24.992983 dB  PSNR-Y: 26.427703 dB 	SSIM: 0.859518 dB  SSIM-Y: 0.874823 dB
+21-10-29 03:17:24.094 - INFO:  23 -                        23.png 	PSNR: 28.811305 dB  PSNR-Y: 30.184034 dB 	SSIM: 0.888487 dB  SSIM-Y: 0.900727 dB
+21-10-29 03:17:24.598 - INFO:  24 -                        24.png 	PSNR: 25.626722 dB  PSNR-Y: 27.067107 dB 	SSIM: 0.855661 dB  SSIM-Y: 0.871530 dB
+21-10-29 03:17:25.102 - INFO:  25 -                        25.png 	PSNR: 28.493218 dB  PSNR-Y: 29.876435 dB 	SSIM: 0.883142 dB  SSIM-Y: 0.896126 dB
+21-10-29 03:17:25.990 - INFO:  26 -                        26.png 	PSNR: 25.437756 dB  PSNR-Y: 26.874713 dB 	SSIM: 0.870973 dB  SSIM-Y: 0.885508 dB
+21-10-29 03:17:26.531 - INFO:  27 -                        27.png 	PSNR: 29.070676 dB  PSNR-Y: 30.455205 dB 	SSIM: 0.899643 dB  SSIM-Y: 0.910918 dB
+21-10-29 03:17:27.072 - INFO:  28 -                        28.png 	PSNR: 25.351703 dB  PSNR-Y: 26.802951 dB 	SSIM: 0.869153 dB  SSIM-Y: 0.884196 dB
+21-10-29 03:17:27.586 - INFO:  29 -                        29.png 	PSNR: 29.047180 dB  PSNR-Y: 30.434075 dB 	SSIM: 0.898763 dB  SSIM-Y: 0.910046 dB
+21-10-29 03:17:28.090 - INFO:  30 -                        30.png 	PSNR: 25.584861 dB  PSNR-Y: 27.061648 dB 	SSIM: 0.865305 dB  SSIM-Y: 0.880002 dB
+21-10-29 03:17:28.597 - INFO:  31 -                        31.png 	PSNR: 28.515954 dB  PSNR-Y: 29.905803 dB 	SSIM: 0.889070 dB  SSIM-Y: 0.901220 dB
+21-10-29 03:17:29.457 - INFO:  32 -                        32.png 	PSNR: 25.677749 dB  PSNR-Y: 27.133684 dB 	SSIM: 0.865927 dB  SSIM-Y: 0.880526 dB
+21-10-29 03:17:29.963 - INFO:  33 -                        33.png 	PSNR: 28.927368 dB  PSNR-Y: 30.290690 dB 	SSIM: 0.899594 dB  SSIM-Y: 0.910502 dB
+21-10-29 03:17:30.471 - INFO:  34 -                        34.png 	PSNR: 26.402054 dB  PSNR-Y: 27.855751 dB 	SSIM: 0.867923 dB  SSIM-Y: 0.883123 dB
+21-10-29 03:17:30.976 - INFO:  35 -                        35.png 	PSNR: 28.945996 dB  PSNR-Y: 30.306355 dB 	SSIM: 0.899476 dB  SSIM-Y: 0.910493 dB
+21-10-29 03:17:31.481 - INFO:  36 -                        36.png 	PSNR: 26.265748 dB  PSNR-Y: 27.770584 dB 	SSIM: 0.868448 dB  SSIM-Y: 0.883564 dB
+21-10-29 03:17:31.986 - INFO:  37 -                        37.png 	PSNR: 28.673331 dB  PSNR-Y: 30.043175 dB 	SSIM: 0.891219 dB  SSIM-Y: 0.903438 dB
+21-10-29 03:17:32.853 - INFO:  38 -                        38.png 	PSNR: 25.971046 dB  PSNR-Y: 27.474159 dB 	SSIM: 0.870039 dB  SSIM-Y: 0.885491 dB
+21-10-29 03:17:33.357 - INFO:  39 -                        39.png 	PSNR: 29.224891 dB  PSNR-Y: 30.593327 dB 	SSIM: 0.903838 dB  SSIM-Y: 0.914778 dB
+21-10-29 03:17:33.861 - INFO:  40 -                        40.png 	PSNR: 25.303189 dB  PSNR-Y: 26.839858 dB 	SSIM: 0.875358 dB  SSIM-Y: 0.890483 dB
+21-10-29 03:17:34.364 - INFO:  41 -                        41.png 	PSNR: 29.179124 dB  PSNR-Y: 30.550855 dB 	SSIM: 0.906456 dB  SSIM-Y: 0.916960 dB
+21-10-29 03:17:34.867 - INFO:  42 -                        42.png 	PSNR: 26.014386 dB  PSNR-Y: 27.545072 dB 	SSIM: 0.870816 dB  SSIM-Y: 0.885807 dB
+21-10-29 03:17:35.370 - INFO:  43 -                        43.png 	PSNR: 28.725614 dB  PSNR-Y: 30.125137 dB 	SSIM: 0.897517 dB  SSIM-Y: 0.909189 dB
+21-10-29 03:17:36.236 - INFO:  44 -                        44.png 	PSNR: 23.456768 dB  PSNR-Y: 24.936661 dB 	SSIM: 0.874709 dB  SSIM-Y: 0.888002 dB
+21-10-29 03:17:36.745 - INFO:  45 -                        45.png 	PSNR: 29.290250 dB  PSNR-Y: 30.671252 dB 	SSIM: 0.909117 dB  SSIM-Y: 0.919363 dB
+21-10-29 03:17:37.256 - INFO:  46 -                        46.png 	PSNR: 24.847199 dB  PSNR-Y: 26.321971 dB 	SSIM: 0.869475 dB  SSIM-Y: 0.884454 dB
+21-10-29 03:17:37.767 - INFO:  47 -                        47.png 	PSNR: 29.023952 dB  PSNR-Y: 30.410003 dB 	SSIM: 0.904153 dB  SSIM-Y: 0.914958 dB
+21-10-29 03:17:37.767 - INFO: Folder walk - Average PSNR: 27.512188 dB PSNR-Y: 28.934326 dB for 47 frames; - Average SSIM: 0.880747 dB SSIM-Y: 0.894191 dB for 47 frames; 
+21-10-29 03:17:37.767 - INFO: ################ Tidy Outputs ################
+21-10-29 03:17:37.767 - INFO: Folder calendar - Average PSNR: 21.893260 dB PSNR-Y: 23.645445 dB - Average SSIM: 0.762028 dB SSIM-Y: 0.795631 dB. 
+21-10-29 03:17:37.767 - INFO: Folder city - Average PSNR: 25.925547 dB PSNR-Y: 27.468970 dB - Average SSIM: 0.765978 dB SSIM-Y: 0.787169 dB. 
+21-10-29 03:17:37.767 - INFO: Folder foliage - Average PSNR: 24.265628 dB PSNR-Y: 25.684458 dB - Average SSIM: 0.712758 dB SSIM-Y: 0.729586 dB. 
+21-10-29 03:17:37.767 - INFO: Folder walk - Average PSNR: 27.512188 dB PSNR-Y: 28.934326 dB - Average SSIM: 0.880747 dB SSIM-Y: 0.894191 dB. 
+21-10-29 03:17:37.767 - INFO: ################ Final Results ################
+21-10-29 03:17:37.767 - INFO: Data: vid4 - ./datasets/vid4/LR/*
+21-10-29 03:17:37.767 - INFO: Padding mode: replicate
+21-10-29 03:17:37.768 - INFO: Model path: ./checkpoints/tmnet_single_frame.pth
+21-10-29 03:17:37.768 - INFO: Save images: True
+21-10-29 03:17:37.768 - INFO: Flip Test: False
+21-10-29 03:17:37.768 - INFO: Total Average PSNR: 24.899156 dB PSNR-Y: 26.433300 dB for 4 clips. Total Average SSIM: 0.780378 dB SSIM-Y: 0.801644 dB for 4 clips.

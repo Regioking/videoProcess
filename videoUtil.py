@@ -19,15 +19,14 @@ def video2frame(video_path, frame_path):
 
 def frame2video(frame_path, video_path, fps):
     frame_list = os.listdir(frame_path)
-    img = cv2.imread(frame_path + frame_list[0])
-    print(img.shape[:2])
+    img = cv2.imread(os.path.join(frame_path, frame_list[0]))
+    print('img size' + str(img.shape[:2]))
     frameSize = img.shape[:2][::-1]
-    print('img size' + str(frameSize))
     fourcc = cv2.VideoWriter_fourcc(*'MJPG')
     '''frameSize和img shape的关系'''
     videoWriter = cv2.VideoWriter(video_path, fourcc, fps, frameSize=frameSize)
     for i, frame in enumerate(frame_list):
-        print("processing: %d/%d" % (i + 1, len(frame_list)))
+        # print("processing: %d/%d" % (i + 1, len(frame_list)))
         frame_name = os.path.join(frame_path, frame)
         img = cv2.imread(frame_name)
 

@@ -1,0 +1,6 @@
+/datasets/*
+/src_video/*
+/gen_video/*
+/gen_frame/*
+/src_frame/*
+*.avi
